@@ -1,2 +1,2 @@
 # Python-basics
-Job
+This repository is for learning Python from scratch.
